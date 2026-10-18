@@ -65,11 +65,161 @@
     "Action": "",
     "Trait": "L-Theropod",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "1,4",
     "Range": "CLOSE",
     "Element": "AIR",
     "Status": "",
-    "FP Charge": "",
+    "FP Charge": "1",
+    "Set": "MM"
+ },
+"MM02": {
+    "id": "MM02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "S-Raptor",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM02_S_Raptor.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "S-Raptor",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "L-Theropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "1,3",
+    "Range": "CLOSE",
+    "Element": "FIRE",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "MM"
+},
+"MM03": {
+    "id": "MM03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goyo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM03_Goyo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goyo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Pachycaphelo",
+    "Limitation": "Unlimited",
+    "FP Cost": "0,2",
+    "Range": "MID",
+    "Element": "AIR",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "MM"
+},
+"MM04": {
+    "id": "MM04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shanshan",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM04_Shanshan.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shanshan",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Tyranno",
+    "Limitation": "Unlimited",
+    "FP Cost": "1,3",
+    "Range": "CLOSE",
+    "Element": "AIR",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "MM"
+},
+"MM05": {
+    "id": "MM05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "V-Raptor",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM05_V_Raptor.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "V-Raptor",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Raptor",
+    "Limitation": "Unlimited",
+    "FP Cost": "1,2",
+    "Range": "CLOSE",
+    "Element": "AIR",
+    "Status": "POISON",
+    "FP Charge": "1",
+    "Set": "MM"
+},
+"MM06": {
+    "id": "MM06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Igua",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM06_Igua.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Igua",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Orinthopod",
+    "Limitation": "Unlimited",
+    "FP Cost": "1,3",
+    "Range": "CLOSE",
+    "Element": "AIR",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "MM"
+},
+"MM07": {
+    "id": "MM07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goyle",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM07_Goyle.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goyle",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Ankylo",
+    "Limitation": "Unlimited",
+    "FP Cost": "1,4",
+    "Range": "MID",
+    "Element": "AIR",
+    "Status": "",
+    "FP Charge": "1",
     "Set": "MM"
   },
 "T02": {
