@@ -15,7 +15,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/CardList.json",
-    "cardBack": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/Cardbacking/CardBacking.png"
+    "cardBack": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/Cardbacking/CardBacking.png"
   },
   "deckBuilding": {
     "mainFilters": [
