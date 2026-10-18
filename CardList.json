@@ -572,6 +572,631 @@
     "FP Charge": "None",
     "Set": "MM"
   },
+"MM22": {
+    "id": "MM22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beth",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM22_Beth.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beth",
+    "type": "Action",
+    "cost": 0,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "0",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM23": {
+    "id": "MM23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Captain Bullwort",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM23_Captain_Bullwort.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Captain Bullwort",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM24": {
+    "id": "MM24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tipper",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM24_Tipper.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tipper",
+    "type": "Action",
+    "cost": 3,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM25": {
+    "id": "MM25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "PB. & J",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM25_PB_&_J.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "PB. & J",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM26": {
+    "id": "MM26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capt. Travers",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM26_Capt_Travers.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capt. Travers",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM27": {
+    "id": "MM27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Edward",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM27_Edward.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Edward",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM28": {
+    "id": "MM28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Info_Clerk",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM28_Info_Clerk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Info_Clerk",
+    "type": "Action",
+    "cost": 0,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "0",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM29": {
+    "id": "MM29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mr. Richmond",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM29_Mr_Richmond.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mr. Richmond",
+    "type": "Action",
+    "cost": 3,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM30": {
+    "id": "MM30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fossil Fighter",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM30_Fossil_Fighter.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fossil Fighter",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM31": {
+    "id": "MM31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "VMM 1.0",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM31_VMM_1.0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "VMM 1.0",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM33": {
+    "id": "MM33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medal Stealer Joe",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM33_Medal_Stealer_Joe.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medal_Stealer_Joe",
+    "type": "Action",
+    "cost": 4,
+    "Action": "Attack",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "4",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM35": {
+    "id": "MM35",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fossil Stadium",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM35_Fossil_Stadium.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fossil Stadium",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Arena",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM36": {
+    "id": "MM36",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Greenhorn Plains",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM36_Greenhorn_Plains.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Greenhorn Plains",
+    "type": "Action",
+    "cost": 3,
+    "Action": "Arena",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM37": {
+    "id": "MM37",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wendy",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM37_Wendy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wendy",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM38": {
+    "id": "MM38",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fossil Computer",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM38_Fossil_Computer.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fossil Computer",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM39": {
+    "id": "MM39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "KL-34N",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM39_KL_34N.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "KL-34N",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Attack",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM41": {
+    "id": "MM41",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Excavate",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM41_Excavate.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Excavate",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+ },
+"MM42": {
+    "id": "MM42",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "KL-33N",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM42_KL_33N.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "KL_33N",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+ },
+"MM43": {
+    "id": "MM43",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Smashing Success",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM43_Smashing_Success.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Smashing Success",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+ },
+"MM44": {
+    "id": "MM44",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fossil Rock",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM44_Fossil_Rock.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fossil Rock",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM45": {
+    "id": "MM45",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Suspicious Fossil Island Attendant",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM45_Suspocoius_Fossil_Attendant.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Suspicious Fossil Island Attendant",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+},
+"MM46": {
+    "id": "MM46",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peggy",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM46_Peggy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peggy",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+},
+"MM47": {
+    "id": "MM47",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Radar",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM47_Radar.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Radar",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+},
+"MM49": {
+    "id": "MM49",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bad Rock",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM49_Bad_Rock.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bad Rock",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Attack",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+},
+"MM50": {
+    "id": "MM50",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fossil Island Police",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM50_Fossil_Island_Police.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fossil Island Police",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Attack",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
 "T02": {
     "id": "T02",
     "isToken": false,
