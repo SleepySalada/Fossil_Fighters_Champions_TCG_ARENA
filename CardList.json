@@ -422,6 +422,156 @@
     "FP Charge": "",
     "Set": "MM"
   },
+"MM16": {
+    "id": "MM16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hunter",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM16_Hunter.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hunter",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM17": {
+    "id": "MM17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Diggins",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM17_Dr.Diggins.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Diggins",
+    "type": "Action",
+    "cost": 3,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM18": {
+    "id": "MM18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rosie",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM18_Rosie.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rosie",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM19": {
+    "id": "MM19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hunter",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM19_Bea_Ginner.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bea Ginner",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM20": {
+    "id": "MM20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Holt",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM20_Holt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Holt",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM20": {
+    "id": "MM20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peggy",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM20_Peggy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peggy",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
 "T02": {
     "id": "T02",
     "isToken": false,
