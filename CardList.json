@@ -22,6 +22,236 @@
     "FP Charge": "",
     "Limitation": ""
 },
+"T02": {
+    "id": "T02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poison",
+        "type": "Token",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Poison.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poison",
+    "type": "Token",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Limitation": ""
+},
+"T03": {
+    "id": "T03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Excite",
+        "type": "Token",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Excite.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Excite",
+    "type": "Token",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Limitation": ""
+},
+"T04": {
+    "id": "T04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Confuse",
+        "type": "Token",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Confuse.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Confuse",
+    "type": "Token",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Limitation": ""
+},
+"T05": {
+    "id": "T05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sleep",
+        "type": "Token",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Sleep.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sleep",
+    "type": "Token",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Limitation": ""
+},
+"T06": {
+    "id": "T06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enrage",
+        "type": "Token",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Enrage.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enrage",
+    "type": "Token",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Limitation": ""
+},
+"T07": {
+    "id": "T07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scare",
+        "type": "Token",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Scare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scare",
+    "type": "Token",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Limitation": ""
+},
+"T08": {
+    "id": "T08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enflame",
+        "type": "Token",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Enflame.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enflame",
+    "type": "Token",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Limitation": ""
+},
+"T09": {
+    "id": "T09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Harden",
+        "type": "Token",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Harden.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Harden",
+    "type": "Token",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Limitation": ""
+},
+"T10": {
+    "id": "T10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quicken",
+        "type": "Token",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Quicken.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quicken",
+    "type": "Token",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Limitation": ""
+},
+"T11": {
+    "id": "T11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Counter",
+        "type": "Token",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Counter.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Counter",
+    "type": "Token",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Limitation": ""
+},
 "MM00": {
     "id": "MM00",
     "isToken": false,
