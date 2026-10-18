@@ -555,7 +555,7 @@
         "name": "The Journey Begins",
         "type": "Action",
         "cost": 3,
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM21_The_Journey_Begins.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM21_The%20Journey%20Begins.png",
         "isHorizontal": false
       }
     },
