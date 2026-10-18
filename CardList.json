@@ -21,5 +21,30 @@
     "Range": "",
     "FP Charge": "",
     "Limitation": ""
+},
+"MM00": {
+    "id": "MM00",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spinax-Magma",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM00_Spinax_Magma.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spinax-Magma",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "L-Theropod, Silvered",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "CLOSE",
+    "Element": "FIRE",
+    "Status": "ENFLAME",
+    "FP Charge": "",
+    "Set": "MM"
   }
-   }
+}
