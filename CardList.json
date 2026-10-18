@@ -7,7 +7,7 @@
         "name": "FP Card",
         "type": "FP Card",
         "cost": 0,
-        "image": "https://github.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/blob/main/FossilFighterTCG_Cardpool/TOKEN/FP_Charge.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/FP_Charge.png",
         "isHorizontal": false
       }
     },
