@@ -1080,7 +1080,7 @@
         "name": "Suspicious Fossil Island Attendant",
         "type": "Action",
         "cost": 2,
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM45_Suspocoius_Fossil_Attendant.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM45_Suspicious_Fossil_Island_Attendant.png",
         "isHorizontal": false
       }
     },
@@ -1180,7 +1180,7 @@
         "name": "Fossil Island Police",
         "type": "Action",
         "cost": 2,
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM50_Fossil_Island_Police.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM50_Fossil_Island_police.png",
         "isHorizontal": false
       }
     },
