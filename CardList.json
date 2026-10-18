@@ -547,25 +547,25 @@
     "FP Charge": "None",
     "Set": "MM"
   },
-"MM20": {
-    "id": "MM20",
+"MM21": {
+    "id": "MM21",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Peggy",
+        "name": "The Journey Begins",
         "type": "Action",
-        "cost": 1,
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM20_Peggy.png",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM21_The_Journey_Begins.png",
         "isHorizontal": false
       }
     },
-    "name": "Peggy",
+    "name": "The Journey Begins",
     "type": "Action",
-    "cost": 1,
+    "cost": 3,
     "Action": "Support",
     "Trait": "",
     "Limitation": "Unlimited",
-    "FP Cost": "1",
+    "FP Cost": "3",
     "Range": "None",
     "Element": "None",
     "Status": "None",
