@@ -221,6 +221,206 @@
     "Status": "",
     "FP Charge": "1",
     "Set": "MM"
+},
+"MM08": {
+    "id": "MM08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Metria",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM08_Metria.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metria",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "L-Theropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "1,3",
+    "Range": "CLOSE",
+    "Element": "AIR",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "MM"
+},
+"MM09": {
+    "id": "MM09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stego",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM09_Stego.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stego",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Stegosaur",
+    "Limitation": "Unlimited",
+    "FP Cost": "1,4",
+    "Range": "MID",
+    "Element": "AIR",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "MM"
+},
+"MM10": {
+    "id": "MM10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "F-Raptor",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM10_F_Raptor.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "F-Raptor",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "L-Theropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "1,4",
+    "Range": "CLOSE",
+    "Element": "EARTH",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "MM"
+},
+"MM11": {
+    "id": "MM11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ptera",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM11_Ptera.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ptera",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Pterosaur",
+    "Limitation": "Unlimited",
+    "FP Cost": "1,3",
+    "Range": "LONG",
+    "Element": "AIR",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "MM"
+},
+"MM12": {
+    "id": "MM12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Compso",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM11_Compso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Compso",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "S-Theropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "0,2",
+    "Range": "MID",
+    "Element": "EARTH",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "MM"
+},
+"MM13": {
+    "id": "MM13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goyle-Zero",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM13_Goyle_Zero.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goyle-Zero",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Ankylosaur, Silvered",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "MID",
+    "Element": "NEUTRAL",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "MM"
+  },
+"MM14": {
+    "id": "MM14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "V-Raptor-Aqua",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM14_V_Raptor_Aqua.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "V-Raptor-Aqua",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Raptor, Silvered",
+    "Limitation": "Unlimited",
+    "FP Cost": "4",
+    "Range": "CLOSE",
+    "Element": "WATER",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "MM"
+},
+"MM15": {
+    "id": "MM15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shanshan-Geo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM15_Shanshan_Geo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shanshan-Geo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Tyranno, Silvered",
+    "Limitation": "Unlimited",
+    "FP Cost": "4",
+    "Range": "CLOSE",
+    "Element": "EARTH",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "MM"
   },
 "T02": {
     "id": "T02",
