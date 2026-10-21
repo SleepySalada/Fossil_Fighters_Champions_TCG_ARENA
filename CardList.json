@@ -822,6 +822,31 @@
     "FP Charge": "None",
     "Set": "MM"
   },
+"MM32": {
+    "id": "MM32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Relic Hotel",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM32_Relic_Hotel.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relic Hotel",
+    "type": "Action",
+    "cost": 2,
+    "Action": "Arena",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
 "MM33": {
     "id": "MM33",
     "isToken": false,
@@ -841,6 +866,31 @@
     "Trait": "",
     "Limitation": "Unlimited",
     "FP Cost": "4",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM34": {
+    "id": "MM34",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hammer",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM34_Hammer.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hammer",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
     "Range": "None",
     "Element": "None",
     "Status": "None",
@@ -966,6 +1016,31 @@
     "Trait": "",
     "Limitation": "Unlimited",
     "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+  },
+"MM40": {
+    "id": "MM40",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drill",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM40_Drill.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drill",
+    "type": "Action",
+    "cost": 1,
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
     "Range": "None",
     "Element": "None",
     "Status": "None",
