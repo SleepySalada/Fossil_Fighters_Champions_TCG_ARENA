@@ -1,7 +1,7 @@
 {
   "T01": {
     "id": "T01",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "FP Card",
@@ -1274,7 +1274,7 @@
   },
 "T02": {
     "id": "T02",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Poison",
@@ -1297,7 +1297,7 @@
 },
 "T03": {
     "id": "T03",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Excite",
@@ -1320,7 +1320,7 @@
 },
 "T04": {
     "id": "T04",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Confuse",
@@ -1343,7 +1343,7 @@
 },
 "T05": {
     "id": "T05",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Sleep",
@@ -1366,7 +1366,7 @@
 },
 "T06": {
     "id": "T06",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Enrage",
@@ -1389,7 +1389,7 @@
 },
 "T07": {
     "id": "T07",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Scare",
@@ -1412,7 +1412,7 @@
 },
 "T08": {
     "id": "T08",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Enflame",
@@ -1435,7 +1435,7 @@
 },
 "T09": {
     "id": "T09",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Harden",
@@ -1458,7 +1458,7 @@
 },
 "T10": {
     "id": "T10",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Quicken",
@@ -1481,7 +1481,7 @@
 },
 "T11": {
     "id": "T11",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Counter",
@@ -1504,7 +1504,7 @@
 },
 "T12": {
     "id": "T12",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Ability",
