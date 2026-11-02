@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Drill",
+	"actionType": "ASSIST",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "0",
+			"effect": "Target a Vivosaur your opponent controls; deal 40 damage to it."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "MM",
+	"setId": "MM-40",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Drill.png",
+		"imageOffsetY": 0
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Goyle-Zero",
+	"vivosaurData": {
+		"lp": "310",
+		"element": "NEUTRAL",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "SILVER",
+			"name": "Goyle",
+			"effect": "Place this on top of a \"Goyle\" you control to play this card from your hand. \"Goyle-Zero\" can use the skills and abilities of the card underneath."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Frozen Armor",
+			"effect": "This Vivosaur takes -30 damage from attack skills (After applying weakness and resistance)."
+		},
+		{
+			"type": "TRAIT",
+			"effect": "[Ankylosaur] [Silvered]"
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-13",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur_FFR/Goyle_Zero.png",
+		"imageOverlay": "assets/Card Art/Vivosaur_FFR/Goyle_Zero_Overlay.png",
+		"fullArt": true,
+		"imageOffsetY": 30
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Capt. Travers",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "2",
+			"effect": "During your End Phase of the turn this card was played: take 2 Vivosaurs from your deck and add them to your hand."
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-26",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Capt_Traverse.png",
+		"imageOffsetY": 50
+	}
+}

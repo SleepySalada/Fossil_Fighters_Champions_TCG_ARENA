@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Dr. Diggins",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "3",
+			"effect": "Target 1 Vivosaur you control; heal 150 damage from that Vivosaur."
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-17",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Dr_Diggins.png",
+		"imageOffsetY": 0
+	}
+}

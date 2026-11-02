@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Fossil Fighter",
+	"actionType": "SUPPORT", 
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "2",
+			"effect": "Target 1 Vivosaur your opponent controls; deal 100 damage to it."
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-30",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Fossil_Fighter.png",
+		"imageOffsetY": 50
+	}
+}

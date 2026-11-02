@@ -1,0 +1,44 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "S-Raptor",
+	"vivosaurData": {
+		"lp": "440",
+		"element": "FIRE",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": ""
+		},
+		{
+			"type": "ABILITY",
+			"name": "Trade",
+			"effect": "During your Action Phase: you can discard 1 card from your hand; draw 1 card. You can only use \"Trade\" once per turn."
+		},
+		{
+			"type": "ATTACK",
+			"name": "S-Fang",
+			"cost": "1",
+			"power": "60"
+		},
+		{
+			"type": "ATTACK",
+			"name": "S-Fury",
+			"cost": "3",
+			"power": "110"
+		},
+		{
+			"type": "TRAIT",
+			"effect": "[L-Theropod]"
+		}
+	],
+	"artist": "RED & EchoSpaceZ",
+	"set": "MM",
+	"setId": "MM-02",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur_FFR/S-Raptor.png",
+		"imageOffsetY": 0
+	}
+}

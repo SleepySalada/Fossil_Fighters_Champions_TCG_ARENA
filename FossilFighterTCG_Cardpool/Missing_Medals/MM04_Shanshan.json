@@ -1,0 +1,45 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Shanshan",
+	"vivosaurData": {
+		"lp": "280",
+		"element": "AIR",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": ""
+		},
+		{
+			"type": "ABILITY",
+			"name": "Support Roar",
+			"effect": "After this Vivosaur was played onto one of your Vivosaur Zones: you can target a rested Vivosaur you control; unrest it."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Shan Fang",
+			"cost": "1",
+			"power": "60"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Shan Combo",
+			"cost": "3",
+			"power": "120",
+			"effect": "Draw 1 card."
+		},
+		{
+			"type": "TRAIT",
+			"effect": "[Tyranno]"
+		}
+	],
+	"artist": "RED & Sleepy",
+	"set": "MM",
+	"setId": "MM-04",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur_FFR/Shanshan.png",
+		"imageOffsetY": 0
+	}
+}

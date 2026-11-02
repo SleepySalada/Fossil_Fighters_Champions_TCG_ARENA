@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Whirlwind",
+	"actionType": "ATTACK",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "0",
+			"effect": "Target 2 of your opponent's Vivosaurs; swap their Vivosaur Zones."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "MM",
+	"setId": "MM-48",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Whirlwind.png",
+		"imageOffsetY": 0
+	}
+}

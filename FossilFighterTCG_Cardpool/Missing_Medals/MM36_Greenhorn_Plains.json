@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Greenhorn Plains",
+	"actionType": "ARENA",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "3",
+			"effect": "AIR Vivosaurs in the FP Zone provide +1 FP Value in addition to their original FP Value. (AIR Vivosaurs in your FP Zone worth 1 FP Charge are now worth 2 FP)."
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-36",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Greenhorn_Plains.png",
+		"imageOffsetY": 20
+	}
+}

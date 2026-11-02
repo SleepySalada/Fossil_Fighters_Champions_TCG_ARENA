@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Edward",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Target a rested Vivosaur you control; unrest it."
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-27",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Edward.png",
+		"imageOffsetY": 30
+	}
+}

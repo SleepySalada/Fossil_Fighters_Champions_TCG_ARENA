@@ -1,0 +1,45 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Ptera",
+	"vivosaurData": {
+		"lp": "320",
+		"element": "AIR",
+		"range": "LONG"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": ""
+		},
+		{
+			"type": "ABILITY",
+			"name": "Aerial Maneuvers",
+			"effect": "Once per turn, after your opponent's Vivosaurs swapped zones: You can swap 2 of your Vivosaur Zones. You can only use \"Aerial Maneuvers\" once per turn."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Diving Thrust",
+			"cost": "1",
+			"power": "60"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Blow Away",
+			"cost": "3",
+			"power": "110",
+			"effect": "Swap 2 of your opponent's Vivosaur Zones."
+		},
+		{
+			"type": "TRAIT",
+			"effect": "[Pterosaur]"
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-11",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur_FFR/Ptera.png",
+		"imageOffsetY": 55
+	}
+}

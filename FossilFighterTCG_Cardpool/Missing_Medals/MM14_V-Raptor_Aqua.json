@@ -1,0 +1,36 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "V-Raptor-Aqua",
+	"vivosaurData": {
+		"lp": "330",
+		"element": "WATER",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "SILVER",
+			"name": "V-Raptor",
+			"effect": "Place this on top of a \"V-Raptor\" you control to play this card from your hand. \"V-Raptor-Aqua\" can use the skills and abilities of the card underneath."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Twin Slicer",
+			"cost": "4",
+			"power": "80",
+			"effect": "Apply one of these effects when you use this attack skill:\n\u2022Target 2 of your opponent's Vivosaurs with this attack skill, regardless of range.\n\u2022Use this attack skill twice on the same Vivosaur within this Vivosaur's range."
+		},
+		{
+			"type": "TRAIT",
+			"effect": "[Raptor] [Silvered]"
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-14",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur_FFR/V-Raptor_Aqua.png",
+		"imageOverlay": "assets/Card Art/Vivosaur_FFR/V-Raptor_Aqua_Overlay.png",
+		"fullArt": true,
+		"imageOffsetY": 0
+	}
+}

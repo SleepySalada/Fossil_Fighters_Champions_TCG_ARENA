@@ -1,0 +1,46 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "F-Raptor",
+	"vivosaurData": {
+		"lp": "440",
+		"element": "EARTH",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": ""
+		},
+		{
+			"type": "ABILITY",
+			"name": "Battle Stance",
+			"effect": "This Vivosaur's attack skills deal +10 damage for each vivosaur your opponent controls (after applying weakness and resistance)."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Savage Bite",
+			"cost": "1",
+			"power": "60",
+			"effect": ""
+		},
+		{
+			"type": "ATTACK",
+			"name": "Savage Fury",
+			"cost": "4",
+			"power": "100+",
+			"effect": "If a Vivosaur you control was knocked out during your opponent's last turn, this Attack Skill deals +100 damage (before applying weakness and resistance)."
+		},
+		{
+			"type": "TRAIT",
+			"effect": "[L-Theropod]"
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-10",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur_FFR/F_Raptor.png",
+		"imageOffsetY": 30
+	}
+}

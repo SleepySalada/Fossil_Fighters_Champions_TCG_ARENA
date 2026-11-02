@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Relic Hotel",
+	"actionType": "ARENA",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "2",
+			"effect": "At the end of the turn player's End Phase: the turn player draws cards until they have 3 cards in hand."
+		}
+	],
+	"artist": "RED",
+	"set": "MM",
+	"setId": "MM-32",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Hotel.png",
+		"imageOffsetY": 50
+	}
+}

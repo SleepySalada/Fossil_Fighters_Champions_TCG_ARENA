@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "KL-33N",
+	"actionType": "ASSIST",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Shuffle your hand into the deck, then draw the same number of cards."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "MM",
+	"setId": "MM-42",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/KL-33N.png",
+		"imageOffsetY": 0
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Info Clerk",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "0",
+			"effect": "Pick a player and look at the top 3 cards of their deck, then return them to the top or bottom of the deck in any order you like."
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-28",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Info_Clerk.png",
+		"imageOffsetY": 30
+	}
+}

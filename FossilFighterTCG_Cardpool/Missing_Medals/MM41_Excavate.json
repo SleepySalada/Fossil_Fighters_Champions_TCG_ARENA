@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Excavate",
+	"actionType": "ASSIST",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Reveal the top card of your deck. You can add it to your hand or discard it, if you do, draw 1 card."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "MM",
+	"setId": "MM-41",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Excavate.png",
+		"imageOffsetY": 0
+	}
+}

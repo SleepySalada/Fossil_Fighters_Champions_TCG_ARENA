@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "VMM 1.0",
+	"actionType": "ASSIST",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Target a Vivosaur in your discard pile; add it to your hand."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "MM",
+	"setId": "MM-31",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_ffr/VMM_1.0.png",
+		"imageOffsetY": 20
+	}
+}

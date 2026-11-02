@@ -1,0 +1,37 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Spinax-Magma",
+	"vivosaurData": {
+		"lp": "530",
+		"element": "FIRE",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "SILVER",
+			"name": "SPINAX",
+			"effect": "Place this on top of a \"Spinax\" you control to play this card from your hand. \"Spinax-Magma\" can use the skills and abilities of the card underneath."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Seething Spirit",
+			"status": [
+				"ENFLAME"
+			],
+			"effect": "After this Vivosaur takes damage from an attack skill: apply Enflame to this Vivosaur."
+		},
+		{
+			"type": "TRAIT",
+			"effect": "[L-Theropod] [Silvered]"
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-00",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur_FFR/Spinax_Magma.png",
+		"imageOverlay": "assets/Card Art/Vivosaur_FFR/Spinax_Magma_Overlay.png",
+		"fullArt": true,
+		"imageOffsetY": 0
+	}
+}

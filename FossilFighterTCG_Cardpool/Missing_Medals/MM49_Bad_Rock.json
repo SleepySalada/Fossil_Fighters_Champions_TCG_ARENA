@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Bad Rock",
+	"actionType": "ATTACK",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "When your opponent draws a card(s), except during their draw phase: discard 1 card from their hand, randomly."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "MM",
+	"setId": "MM-49",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Bad_Rock.png",
+		"imageOffsetY": 0
+	}
+}

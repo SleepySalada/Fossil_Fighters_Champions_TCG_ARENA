@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Peggy",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Target 1 Vivosaur you control; that Vivosaur's next skill requires -2 FP."
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-46",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Peggy.png",
+		"imageOffsetY": 0
+	}
+}

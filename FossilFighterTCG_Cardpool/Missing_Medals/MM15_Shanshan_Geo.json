@@ -1,0 +1,36 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Shanshan-Geo",
+	"vivosaurData": {
+		"lp": "330",
+		"element": "EARTH",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "SILVER",
+			"name": "Shanshan",
+			"effect": "Place this on top of a \"Shanshan\" you control to play this card from your hand. \"Shanshan-Geo\" can use the skills and abilities of the card underneath."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Fighting Fang",
+			"cost": "4",
+			"power": "90x",
+			"effect": "Discard any number of support action cards from your hand; this attack skill does 90 damage for each card discarded by this effect."
+		},
+		{
+			"type": "TRAIT",
+			"effect": "[Tyranno] [Silvered]"
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-15",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur_FFR/Shanshan_Geo.png",
+		"imageOverlay": "assets/Card Art/Vivosaur_FFR/Shanshan_Geo_Overlay.png",
+		"fullArt": true,
+		"imageOffsetY": 0
+	}
+}

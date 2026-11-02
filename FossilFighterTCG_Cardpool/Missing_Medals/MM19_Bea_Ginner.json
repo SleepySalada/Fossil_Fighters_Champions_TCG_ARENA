@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Bea Ginner",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Charge 3 FP."
+		}
+	],
+	"artist": "RED & SleepySalada",
+	"set": "MM",
+	"setId": "MM-19",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Bea_Ginner.png",
+		"imageOffsetY": 50
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Suspicious Fossil Island Attendant",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Your opponent draws 1 card, then you can look at their hand and discard 1 card from their hand."
+		}
+	],
+	"artist": "RED",
+	"set": "MM",
+	"setId": "MM-45",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Sus_Fossil_Attendant.png",
+		"imageOffsetY": 0
+	}
+}

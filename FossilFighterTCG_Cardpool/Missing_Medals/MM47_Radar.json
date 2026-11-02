@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Radar",
+	"actionType": "ASSIST",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "0",
+			"effect": "Reveal the top 3 cards of your deck and place them on top of your deck in any order you desire."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "MM",
+	"setId": "MM-47",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Radar.png",
+		"imageOffsetY": 0
+	}
+}

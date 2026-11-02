@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Hunter",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "2",
+			"effect": "Until the end of your turn, all Vivosaurs you control deal +50 damage with attack skills (after applying weakness and resistance)."
+		}
+	],
+	"artist": "RED and SleepySalada",
+	"set": "MM",
+	"setId": "MM-16",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Hunter.png",
+		"imageOffsetY": 50
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Fossil Computer",
+	"actionType": "ASSIST",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Reveal a Vivosaur in your hand; add 1 Vivosaur with a different name from your deck to your hand, then place the revealed Vivosaur to the bottom of your deck."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "MM",
+	"setId": "MM-38",
+	"renderOptions": {
+		"image": "assets/Card Art/Action_FFR/Fossil_Computer.png",
+		"imageOffsetY": 50
+	}
+}

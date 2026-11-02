@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "The Journey Begins",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "2",
+			"effect": "Play 1 Vivosaur from your hand."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "MM",
+	"setId": "MM-21",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/The_Journey_Begins.png",
+		"imageOffsetY": 0
+	}
+}

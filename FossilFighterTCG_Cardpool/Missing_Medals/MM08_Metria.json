@@ -1,0 +1,45 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Metria",
+	"vivosaurData": {
+		"lp": "440",
+		"element": "AIR",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": ""
+		},
+		{
+			"type": "ABILITY",
+			"name": "Rivalry",
+			"effect": "This Vivosaur's attack skills deal +30 damage to your opponent's close-range Vivosaurs. (After applying weakness and resistance)."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Green Fang",
+			"cost": "1",
+			"power": "70"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Metria Combo",
+			"cost": "3",
+			"power": "100",
+			"effect": "Discard 1 card from your opponent's FP Zone."
+		},
+		{
+			"type": "TRAIT",
+			"effect": "[L-Theropod]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "MM",
+	"setId": "MM-08",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur_FFR/Metria.png",
+		"imageOffsetY": 0
+	}
+}
