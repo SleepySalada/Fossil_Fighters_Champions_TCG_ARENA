@@ -1222,6 +1222,31 @@
     "FP Charge": "None",
     "Set": "MM"
 },
+"MM48": {
+    "id": "MM48",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Whirlwind",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM47_Whirlwind.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Whirlwind",
+    "type": "Action",
+    "cost": 0,
+    "Action": "Attack",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "0",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "MM"
+},
 "MM49": {
     "id": "MM49",
     "isToken": false,
