@@ -145,6 +145,9 @@
 								}
 							],
 							"isSymetricalForOpponents": false
+						},
+						{
+							"section": "Event_Manager"
 						}
 					]
 				},
@@ -369,7 +372,10 @@
 						"enterSpun": false,
 						"isGroupForbidden": false,
 						"keepTappedNewTurn": false,
-						"showHiddenCardInHistory": false,
+						"showHiddenCardInHistory": false
+					},
+					"Event_Manager": {
+						"type": "custom",
 						"events": {
 							"onStart": "await initFpDeck();",
 							"onNewTurn": "if (game.turn.isMyTurn) await doChargePhase();"
