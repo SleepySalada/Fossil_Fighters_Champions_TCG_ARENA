@@ -142,19 +142,6 @@
 								}
 							],
 							"isSymetricalForOpponents": false
-						},
-						{
-							"direction": "row",
-							"style": {
-								"width": "12vh"
-							},
-							"content": [
-								{
-									"section": "Action_Card",
-									"style": false
-								}
-							],
-							"isSymetricalForOpponents": false
 						}
 					]
 				},
