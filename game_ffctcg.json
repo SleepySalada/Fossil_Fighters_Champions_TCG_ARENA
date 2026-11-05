@@ -96,33 +96,93 @@
 			},
 
 			"sections": {
-				"customSections": ["Vivosaur_Zone", "Arena_Zone", "FP_Zone", "FP_Deck"],
+				"customSections": [
+					"Vivosaur_Zone_Left",
+					"Vivosaur_Zone_Center",
+					"Vivosaur_Zone_Right",
+					"Arena_Zone",
+					"FP_Zone",
+					"FP_Deck"
+				],
 				"layout": {
 					"direction": "row",
-					"isSymetricalForOpponents": false,
 					"content": [
 						{
-							"section": "FP_Deck"
+							"direction": "column",
+							"content": [
+								{
+									"section": "Arena_Zone"
+								},
+								{
+									"section": "FP_Deck"
+								}
+							]
 						},
 						{
-							"section": "Vivosaur_Zone"
-						},
-						{
-							"section": "Vivosaur_Zone"
-						},
-						{
-							"section": "Vivosaur_Zone"
-						},
-						{
-							"section": "Event_Manager"
+							"direction": "column",
+							"content": [
+								{
+									"direction": "row",
+									"content": [
+										{
+											"section": "Vivosaur_Zone_Left"
+										},
+										{
+											"section": "Vivosaur_Zone_Center"
+										},
+										{
+											"section": "Vivosaur_Zone_Right"
+										}
+									]
+								},
+								{
+									"section": "FP_Zone"
+								}
+							]
 						}
 					]
 				},
 
 				"sectionsDict": {
-					"Vivosaur_Zone": {
-						"title": "Vivosaur_Zone",
+					"Vivosaur_Zone_Left": {
+						"title": "Vivosaur_Zone_Left",
 						"displayedTitle": "Vivosaur Zone",
+						"isHidden": "no",
+						"height": "MEDIUM",
+						"alignment": "CENTER",
+						"logWhenPlayed": true,
+						"noQuickActions": true
+					},
+					"Vivosaur_Zone_Center": {
+						"title": "Vivosaur_Zone_Center",
+						"displayedTitle": "Vivosaur Zone",
+						"isHidden": "no",
+						"height": "MEDIUM",
+						"alignment": "CENTER",
+						"logWhenPlayed": true,
+						"noQuickActions": true
+					},
+					"Vivosaur_Zone_Right": {
+						"title": "Vivosaur_Zone_Right",
+						"displayedTitle": "Vivosaur Zone",
+						"isHidden": "no",
+						"height": "MEDIUM",
+						"alignment": "CENTER",
+						"logWhenPlayed": true,
+						"noQuickActions": true
+					},
+					"Arena_Zone": {
+						"title": "Arena_Zone",
+						"displayedTitle": "Arena Zone",
+						"isHidden": "no",
+						"height": "MEDIUM",
+						"alignment": "CENTER",
+						"logWhenPlayed": true,
+						"noQuickActions": true
+					},
+					"FP_Zone": {
+						"title": "FP_Zone",
+						"displayedTitle": "FP Zone",
 						"isHidden": "no",
 						"height": "MEDIUM",
 						"alignment": "CENTER",
