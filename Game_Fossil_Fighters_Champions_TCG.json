@@ -377,8 +377,8 @@
 					"Event_Manager": {
 						"type": "custom",
 						"events": {
-							"onStart": "await initFpDeck();",
-							"onNewTurn": "if (turn.isMyTurn) await doChargePhase();"
+							"onPlayersReady": "await initFpDeck();",
+							"onNewTurn": "if (game.turn.isMyTurn) await doChargePhase();"
 						}
 					}
 				}

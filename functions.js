@@ -12,7 +12,7 @@ async function initFpDeck() {
 
 async function doChargePhase(bonusCharge = 0) {
 	// Skip charging if it's not your turn
-	if (!turn.isMyTurn) return;
+	if (!game.turn.isMyTurn) return;
 
 	// Calculate Charge count
 	const cardsInFpDeck = game.data.FP_Deck?.length ?? 0;
