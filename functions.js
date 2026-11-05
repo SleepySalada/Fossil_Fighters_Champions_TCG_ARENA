@@ -3,8 +3,10 @@ const MAX_CARDS_IN_FP_ZONE = 10;
 const CHARGE_COUNT_PER_TURN = 3;
 
 async function initFpDeck() {
-	// Create FP cards in player's FP Deck
 	const createCount = MAX_CARDS_IN_FP_DECK - (game.data.FP_Deck?.length ?? 0);
+	console.log(`Attempting to create ${createCount} "FP Charge" cards.`);
+	
+	// Create FP cards in player's FP Deck
 	for (let count = 0; count < createCount; count++) {
 		await functions.createCard("T01", "FP_Deck");
 	}
@@ -22,6 +24,7 @@ async function doChargePhase(bonusCharge = 0) {
 		spaceInFpZone,
 		CHARGE_COUNT_PER_TURN + bonusCharge,
 	);
+	console.log(`Attempting to charge ${chargeCount} cards. (${cardsInFpDeck}, ${spaceInFpZone}, ${CHARGE_COUNT_PER_TURN + bonusCharge})`);
 
 	if (chargeCount > 0) {
 		// Automatically charge cards
