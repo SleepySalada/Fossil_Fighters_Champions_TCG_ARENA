@@ -102,6 +102,9 @@
 					"isSymetricalForOpponents": false,
 					"content": [
 						{
+							"section": "FP_Deck"
+						},
+						{
 							"section": "Vivosaur_Zone"
 						},
 						{
