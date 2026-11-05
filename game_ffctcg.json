@@ -3,7 +3,7 @@
 
 	"menuBackgroundImage": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/refactor/assets/banners/O_Raptor_Banner.png",
 	"cards": {
-		"dataUrl": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/reactor/data/cards.json",
+		"dataUrl": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/data/cards.json",
 		"cardBack": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_Arena/refs/heads/refactor/assets/card_backs/card_back.png"
 	},
 	"defaultRessources": {
