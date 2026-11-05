@@ -129,6 +129,15 @@
 						"logWhenPlayed": true,
 						"noQuickActions": true
 					},
+					"FP_Deck": {
+						"title": "FP_Deck",
+						"displayedTitle": "FP Deck",
+						"isHidden": "no",
+						"height": "MEDIUM",
+						"alignment": "CENTER",
+						"logWhenPlayed": true,
+						"noQuickActions": true
+					},
 					"Event_Manager": {
 						"type": "custom",
 						"defaultValue": {
