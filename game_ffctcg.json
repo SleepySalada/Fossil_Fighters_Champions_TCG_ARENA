@@ -108,7 +108,13 @@
 					"direction": "row",
 					"content": [
 						{
+							"section": "Event_Manager"
+						},
+						{
 							"direction": "column",
+							"style": {
+								"width": "22vh"
+							},
 							"content": [
 								{
 									"section": "Arena_Zone"
