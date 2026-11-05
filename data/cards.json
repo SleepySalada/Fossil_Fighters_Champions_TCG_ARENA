@@ -1,50 +1,51 @@
 {
 	"T01": {
 		"id": "T01",
-		"isToken": true,
 		"face": {
 			"front": {
-				"name": "FP Card",
-				"type": "FP Card",
-				"cost": 0,
-				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/FP_Charge.png",
-				"isHorizontal": false
+				"name": {
+					"en": "FP Charge"
+				},
+				"image": {
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/FP_Charge.png"
+				},
+				"type": "FP Charge",
+				"cost": 0
 			}
 		},
-		"name": "FP Card",
-		"type": "FP Card",
-		"cost": "",
-		"FP Cost": "",
-		"Action": "",
-		"Trait": "",
-		"Element": "",
-		"Range": "",
-		"FP Charge": "",
-		"Limitation": ""
+		"name": {
+			"en": "FP Charge"
+		},
+		"type": "FP Charge",
+		"cost": 0,
+		"isToken": true,
+		"_legal": {
+			"FFC": true,
+			"PRE": true
+		}
 	},
 	"MM00": {
 		"id": "MM00",
-		"isToken": false,
 		"face": {
 			"front": {
-				"name": "Spinax-Magma",
+				"name": {
+					"en": "Spinax-Magma"
+				},
+				"image": {
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM00_Spinax_Magma.png"
+				},
 				"type": "Vivosaur",
-				"cost": "",
-				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM00_Spinax_Magma.png",
-				"isHorizontal": false
+				"cost": 0
 			}
 		},
-		"name": "Spinax-Magma",
+		"name": {
+			"en": "Spinax-Magma"
+		},
 		"type": "Vivosaur",
-		"cost": "",
-		"Action": "",
-		"Trait": "L-Theropod, Silvered",
-		"Limitation": "Unlimited",
-		"FP Cost": "",
-		"Range": "CLOSE",
-		"Element": "FIRE",
-		"Status": "ENFLAME",
-		"FP Charge": "",
-		"Set": "MM"
+		"cost": 0,
+		"_legal": {
+			"FFC": true,
+			"PRE": true
+		}
 	}
 }
