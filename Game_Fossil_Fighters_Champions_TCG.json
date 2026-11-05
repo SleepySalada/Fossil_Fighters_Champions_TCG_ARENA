@@ -70,6 +70,9 @@
 					"isSymetricalForOpponents": false,
 					"content": [
 						{
+							"section": "Event_Manager"
+						},
+						{
 							"direction": "column",
 							"style": {
 								"justifyContent": "start",
@@ -353,11 +356,7 @@
 						"enterSpun": false,
 						"isGroupForbidden": false,
 						"keepTappedNewTurn": false,
-						"showHiddenCardInHistory": false,
-						"events": {
-							"onStart": "await initFpDeck();",
-							"onNewTurn": "if (turn.isMyTurn) await doChargePhase();"
-						}
+						"showHiddenCardInHistory": false
 					},
 					"FP_Zone": {
 						"title": "FP_Zone",
@@ -374,6 +373,13 @@
 						"isGroupForbidden": false,
 						"keepTappedNewTurn": false,
 						"showHiddenCardInHistory": false
+					},
+					"Event_Manager": {
+						"type": "custom",
+						"events": {
+							"onStart": "await initFpDeck();",
+							"onNewTurn": "if (turn.isMyTurn) await doChargePhase();"
+						}
 					}
 				}
 			}
