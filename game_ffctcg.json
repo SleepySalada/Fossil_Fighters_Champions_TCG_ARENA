@@ -119,10 +119,12 @@
 							},
 							"content": [
 								{
-									"section": "Arena_Zone"
+									"section": "Arena_Zone",
+									"style": false
 								},
 								{
-									"section": "FP_Deck"
+									"section": "FP_Deck",
+									"style": false
 								}
 							]
 						},
