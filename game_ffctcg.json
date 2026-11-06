@@ -113,6 +113,9 @@
 						},
 						{
 							"direction": "column",
+							"style": {
+								"width": "15vh"
+							},
 							"content": [
 								{
 									"section": "Arena_Zone"
