@@ -26,11 +26,9 @@
 	"deckBuilding": {
 		"mainFilters": [
 			"Element",
-			"Type",
 			"Trait",
 			"Range",
-			"Charge Value",
-			"FP Cost"
+			"Charge Value"
 		],
 		"formats": [
 			{

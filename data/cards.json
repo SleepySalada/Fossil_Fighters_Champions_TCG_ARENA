@@ -7,7 +7,7 @@
 					"en": "FP Charge"
 				},
 				"image": {
-					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/FP_Charge.png"
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/cards/TOKEN/FP_Charge.png"
 				},
 				"type": "FP Charge",
 				"cost": 0
@@ -24,6 +24,7 @@
 			"PRE": true
 		}
 	},
+
 	"MM00": {
 		"id": "MM00",
 		"face": {
@@ -32,7 +33,7 @@
 					"en": "Spinax-Magma"
 				},
 				"image": {
-					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM00_Spinax_Magma.png"
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/cards/Missing_Medals/MM00_Spinax_Magma.png"
 				},
 				"type": "Vivosaur",
 				"cost": 0
@@ -43,11 +44,15 @@
 		},
 		"type": "Vivosaur",
 		"cost": 0,
+		"Element": "FIRE",
+		"Trait": ["L-Theropod", "Silvered"],
+		"Range": "CLOSE",
 		"_legal": {
 			"FFC": true,
 			"PRE": true
 		}
 	},
+
 	"MM16": {
 		"id": "MM16",
 		"face": {
@@ -56,7 +61,7 @@
 					"en": "Hunter"
 				},
 				"image": {
-					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM16_Hunter.png"
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/cards/Missing_Medals/MM16_Hunter.png"
 				},
 				"type": "Action",
 				"cost": 2
@@ -67,6 +72,7 @@
 		},
 		"type": "Action",
 		"cost": 2,
+		"Action Type": "Support",
 		"_legal": {
 			"FFC": true,
 			"PRE": true
