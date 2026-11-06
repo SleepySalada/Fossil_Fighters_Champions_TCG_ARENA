@@ -158,7 +158,14 @@
 						"height": "MEDIUM",
 						"alignment": "CENTER",
 						"logWhenPlayed": true,
-						"noQuickActions": true
+						"noQuickActions": true,
+						"noAutoPayTo": true,
+						"cardActionShortcut": {
+							"action": "MOVE",
+							"actionData": {
+								"destination": "FP_Zone"
+							}
+						}
 					},
 					"Vivosaur_Zone_Center": {
 						"title": "Vivosaur_Zone_Center",
@@ -167,7 +174,14 @@
 						"height": "MEDIUM",
 						"alignment": "CENTER",
 						"logWhenPlayed": true,
-						"noQuickActions": true
+						"noQuickActions": true,
+						"noAutoPayTo": true,
+						"cardActionShortcut": {
+							"action": "MOVE",
+							"actionData": {
+								"destination": "FP_Zone"
+							}
+						}
 					},
 					"Vivosaur_Zone_Right": {
 						"title": "Vivosaur_Zone_Right",
@@ -176,7 +190,14 @@
 						"height": "MEDIUM",
 						"alignment": "CENTER",
 						"logWhenPlayed": true,
-						"noQuickActions": true
+						"noQuickActions": true,
+						"noAutoPayTo": true,
+						"cardActionShortcut": {
+							"action": "MOVE",
+							"actionData": {
+								"destination": "FP_Zone"
+							}
+						}
 					},
 					"Arena_Zone": {
 						"title": "Arena_Zone",
@@ -185,25 +206,40 @@
 						"height": "MEDIUM",
 						"alignment": "CENTER",
 						"logWhenPlayed": true,
-						"noQuickActions": true
+						"noQuickActions": true,
+						"cardActionShortcut": {
+							"action": "MOVE",
+							"actionData": {
+								"destination": "Discard"
+							}
+						}
 					},
 					"FP_Zone": {
 						"title": "FP_Zone",
 						"displayedTitle": "FP Zone",
 						"isHidden": "no",
-						"height": "MEDIUM",
+						"height": "SMALL",
 						"alignment": "CENTER",
-						"logWhenPlayed": true,
-						"noQuickActions": true
+						"logWhenPlayed": false,
+						"noQuickActions": true,
+						"cardActionShortcut": {
+							"action": "MOVE",
+							"actionData": {
+								"destination": "FP_Deck"
+							}
+						}
 					},
 					"FP_Deck": {
 						"title": "FP_Deck",
 						"displayedTitle": "FP Deck",
 						"isHidden": "no",
-						"height": "MEDIUM",
-						"alignment": "CENTER",
-						"logWhenPlayed": true,
-						"noQuickActions": true
+						"height": "SMALL",
+						"alignment": "DECK",
+						"logWhenPlayed": false,
+						"noQuickActions": true,
+						"drawDestinations": {
+							"_default": "FP_Zone"
+						}
 					},
 					"Event_Manager": {
 						"type": "custom",
