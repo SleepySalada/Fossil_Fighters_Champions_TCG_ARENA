@@ -80,7 +80,7 @@
 						"category": "Vivosaur",
 						"min": 1,
 						"max": 1,
-						"unselectedDestination": "Deck"
+						"unselectedDestination": "Vivosaur_Zone_Center"
 					}
 				]
 			},
