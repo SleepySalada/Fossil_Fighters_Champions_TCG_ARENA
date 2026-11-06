@@ -271,7 +271,7 @@
 							]
 						}
 					},
-					"Swap_Left": {
+					"Swap": {
 						"type": "custom",
 						"blueprint": {
 							"type": "span",
