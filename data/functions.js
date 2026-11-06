@@ -2,17 +2,6 @@ const MAX_CARDS_IN_FP_DECK = 10;
 const MAX_CARDS_IN_FP_ZONE = 10;
 const CHARGE_COUNT_PER_TURN = 3;
 
-async function initFpDeck() {
-	const createCount = MAX_CARDS_IN_FP_DECK - (cards.FP_Deck?.length ?? 0);
-	console.log(`Attempting to create ${createCount} "FP Charge" cards.`);
-	
-	// Create FP cards in player's FP Deck
-	for (let count = 0; count < createCount; count++) {
-		const card = await functions.createCard("T01", "FP_Deck");
-		console.log(card);
-	}
-}
-
 async function doChargePhase(bonusCharge = 0) {
 	// Skip charging if it's not your turn
 	if (!game.turn.isMyTurn) return;
@@ -34,4 +23,20 @@ async function doChargePhase(bonusCharge = 0) {
 		// Re-draw the field
 		await functions.repositionCards();
 	}
+}
+
+// Swap Zones
+const ZONES_LIST = [
+	"Vivosaur_Zone_Left",
+	"Vivosaur_Zone_Center",
+	"Vivosaur_Zone_Right"
+];
+
+async function swapZones(first, second) {
+	if (!ZONES_LIST.includes(first) || !ZONES_LIST.includes(second)) return;
+
+	const cardFirst = cards[first]?.[0] ?? null;
+	const cardSecond = cards[second]?.[0] ?? null;
+	await functions.moveCard(cardFirst, second);
+	await functions.moveCard(cardSecond, first);
 }

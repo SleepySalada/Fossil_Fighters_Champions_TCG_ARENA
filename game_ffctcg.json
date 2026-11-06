@@ -287,14 +287,16 @@
 						"type": "custom",
 						"blueprint": {
 							"type": "button",
-							"children": "Left <-> Center"
+							"children": "Left <-> Center",
+							"onClick": "await swapZones('Vivosaur_Zone_Left', 'Vivosaur_Zone_Center');"
 						}
 					},
 					"Swap_Right": {
 						"type": "custom",
 						"blueprint": {
 							"type": "button",
-							"children": "Center <-> Right"
+							"children": "Center <-> Right",
+							"onClick": "await swapZones('Vivosaur_Zone_Center', 'Vivosaur_Zone_Right');"
 						}
 					}
 				},
