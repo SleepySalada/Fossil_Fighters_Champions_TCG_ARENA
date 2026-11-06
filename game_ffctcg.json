@@ -1,18 +1,18 @@
 {
 	"name": "Fossil Fighters: Champions TCG (Refactored)",
 
-	"menuBackgroundImage": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/refactor/assets/banners/O_Raptor_Banner.png",
+	"menuBackgroundImage": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/banners/O_Raptor_Banner.png",
 	"cards": {
 		"dataUrl": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/data/cards.json",
 		"cardBack": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_Arena/refs/heads/refactor/assets/card_backs/card_back.png"
 	},
 	"defaultRessources": {
 		"backgrounds": [
-			"https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/refactor/assets/playmats/Caliosteo_Patrol_Team_Playmat.png",
-			"https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/refactor/assets/playmats/Dinaurian_Elite_Playmat.png",
-			"https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/refactor/assets/playmats/Invertabrate_Playmat.png",
-			"https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/refactor/assets/playmats/Tyrants_Evolution_Playmat.png",
-			"https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/refactor/assets/playmats/Water_Playmat.png"
+			"https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/playmats/Caliosteo_Patrol_Team_Playmat.png",
+			"https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/playmats/Dinaurian_Elite_Playmat.png",
+			"https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/playmats/Invertabrate_Playmat.png",
+			"https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/playmats/Tyrants_Evolution_Playmat.png",
+			"https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/playmats/Water_Playmat.png"
 		],
 		"decksUrl": ""
 	},
