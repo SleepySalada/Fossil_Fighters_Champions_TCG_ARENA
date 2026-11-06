@@ -7,7 +7,7 @@
 					"en": "FP Charge"
 				},
 				"image": {
-					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/cards/TOKEN/FP_Charge.png"
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/cards/TOKEN/FP_Charge.png"
 				},
 				"type": "FP Charge",
 				"cost": 0
@@ -33,7 +33,7 @@
 					"en": "Spinax-Magma"
 				},
 				"image": {
-					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/cards/Missing_Medals/MM00_Spinax_Magma.png"
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/cards/Missing_Medals/MM00_Spinax_Magma.png"
 				},
 				"type": "Vivosaur",
 				"cost": 0
@@ -47,6 +47,37 @@
 		"Element": "FIRE",
 		"Trait": ["L-Theropod", "Silvered"],
 		"Range": "CLOSE",
+		"Set": ["MM"],
+		"_legal": {
+			"FFC": true,
+			"PRE": true
+		}
+	},
+
+	"MM01": {
+		"id": "MM01",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Spinax"
+				},
+				"image": {
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/cards/Missing_Medals/MM01_Spinax.png"
+				},
+				"type": "Vivosaur",
+				"cost": 0
+			}
+		},
+		"name": {
+			"en": "Spinax"
+		},
+		"type": "Vivosaur",
+		"cost": 0,
+		"Element": "AIR",
+		"Trait": ["L-Theropod"],
+		"Range": "CLOSE",
+		"FP Charge": 1,
+		"Set": ["MM"],
 		"_legal": {
 			"FFC": true,
 			"PRE": true
@@ -61,7 +92,7 @@
 					"en": "Hunter"
 				},
 				"image": {
-					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/cards/Missing_Medals/MM16_Hunter.png"
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/cards/Missing_Medals/MM16_Hunter.png"
 				},
 				"type": "Action",
 				"cost": 2
@@ -73,6 +104,7 @@
 		"type": "Action",
 		"cost": 2,
 		"Action Type": "Support",
+		"Set": ["MM"],
 		"_legal": {
 			"FFC": true,
 			"PRE": true

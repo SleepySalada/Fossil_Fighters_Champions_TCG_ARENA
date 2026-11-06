@@ -25,7 +25,9 @@
 
 	"deckBuilding": {
 		"mainFilters": [
+			"type",
 			"Element",
+			"Action Type",
 			"Trait",
 			"Range",
 			"Charge Value"
