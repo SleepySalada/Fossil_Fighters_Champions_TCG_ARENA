@@ -37,6 +37,7 @@ async function swapZones(first, second) {
 
 	const cardFirst = cards[first]?.[0] ?? null;
 	const cardSecond = cards[second]?.[0] ?? null;
-	await functions.moveCard(cardFirst, second);
-	await functions.moveCard(cardSecond, first);
+	
+	if (cardFirst) await functions.moveCard(cardFirst, second);
+	if (cardSecond) await functions.moveCard(cardSecond, first);
 }
