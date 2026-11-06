@@ -113,9 +113,6 @@
 						},
 						{
 							"direction": "column",
-							"style": {
-								"width": "22vh"
-							},
 							"content": [
 								{
 									"section": "Arena_Zone"
@@ -139,6 +136,17 @@
 										},
 										{
 											"section": "Vivosaur_Zone_Right"
+										}
+									]
+								},
+								{
+									"direction": "row",
+									"content": [
+										{
+											"section": "Swap_Left"
+										},
+										{
+											"section": "Swap_Right"
 										}
 									]
 								},
@@ -203,7 +211,7 @@
 						"title": "Arena_Zone",
 						"displayedTitle": "Arena Zone",
 						"isHidden": "no",
-						"height": "MEDIUM",
+						"height": "SMALL",
 						"alignment": "CENTER",
 						"logWhenPlayed": true,
 						"noQuickActions": true,
@@ -259,6 +267,20 @@
 									"children": "{{ game.data.Event_Manager.salad }}"
 								}
 							]
+						}
+					},
+					"Swap_Left": {
+						"type": "custom",
+						"blueprint": {
+							"type": "button",
+							"children": "Left <-> Center"
+						}
+					},
+					"Swap_Right": {
+						"type": "custom",
+						"blueprint": {
+							"type": "button",
+							"children": "Center <-> Right"
 						}
 					}
 				},
