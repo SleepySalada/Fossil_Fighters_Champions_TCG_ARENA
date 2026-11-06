@@ -47,5 +47,29 @@
 			"FFC": true,
 			"PRE": true
 		}
+	},
+	"MM16": {
+		"id": "MM16",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Hunter"
+				},
+				"image": {
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM16_Hunter.png"
+				},
+				"type": "Action",
+				"cost": 2
+			}
+		},
+		"name": {
+			"en": "Hunter"
+		},
+		"type": "Action",
+		"cost": 2,
+		"_legal": {
+			"FFC": true,
+			"PRE": true
+		}
 	}
 }
