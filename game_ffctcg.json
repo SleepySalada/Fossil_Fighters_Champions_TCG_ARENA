@@ -102,17 +102,22 @@
 					"Vivosaur_Zone_Center",
 					"Vivosaur_Zone_Right",
 					"Arena_Zone",
-					"FP_Zone",
 					"FP_Deck"
 				],
 				"layout": {
 					"direction": "row",
 					"content": [
 						{
-							"section": "Event_Manager"
+							"section": "Event_Manager",
+							"style": {
+								"width": "15%"
+							}
 						},
 						{
 							"direction": "column",
+							"style": {
+								"width": "15%"
+							},
 							"content": [
 								{
 									"section": "Arena_Zone",
@@ -127,7 +132,7 @@
 						{
 							"direction": "column",
 							"style": {
-								"width": "75%"
+								"width": "70%"
 							},
 							"content": [
 								{
@@ -156,7 +161,7 @@
 									]
 								},
 								{
-									"section": "FP_Zone"
+									"section": "Mana"
 								}
 							]
 						}
@@ -176,7 +181,7 @@
 						"cardActionShortcut": {
 							"action": "MOVE",
 							"actionData": {
-								"destination": "FP_Zone"
+								"destination": "Mana"
 							}
 						}
 					},
@@ -192,7 +197,7 @@
 						"cardActionShortcut": {
 							"action": "MOVE",
 							"actionData": {
-								"destination": "FP_Zone"
+								"destination": "Mana"
 							}
 						}
 					},
@@ -208,7 +213,7 @@
 						"cardActionShortcut": {
 							"action": "MOVE",
 							"actionData": {
-								"destination": "FP_Zone"
+								"destination": "Mana"
 							}
 						}
 					},
@@ -227,8 +232,8 @@
 							}
 						}
 					},
-					"FP_Zone": {
-						"title": "FP_Zone",
+					"Mana": {
+						"title": "Mana",
 						"displayedTitle": "FP Zone",
 						"isHidden": "no",
 						"height": "SMALL",
@@ -251,7 +256,7 @@
 						"logWhenPlayed": false,
 						"noQuickActions": true,
 						"drawDestinations": {
-							"_default": "FP_Zone"
+							"_default": "Mana"
 						}
 					},
 					"Event_Manager": {
