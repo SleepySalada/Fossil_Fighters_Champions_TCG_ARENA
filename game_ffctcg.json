@@ -74,7 +74,10 @@
 						"count": 10,
 						"destination": "FP_Deck"
 					}
-				]
+				],
+
+				"boardCategoriesInSideboard": [],
+				"boardCardSelection": []
 			},
 			"mulligan": {
 				"startingHandSize": 0,
