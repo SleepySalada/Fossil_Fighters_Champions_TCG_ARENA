@@ -152,6 +152,7 @@
 								{
 									"direction": "row",
 									"style": {
+										"justify-content": "center",
 										"width": "67%"
 									},
 									"content": [
