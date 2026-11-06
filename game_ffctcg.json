@@ -113,12 +113,12 @@
 						},
 						{
 							"direction": "column",
-							"style": {
-								"width": "15vh"
-							},
 							"content": [
 								{
-									"section": "Arena_Zone"
+									"section": "Arena_Zone",
+									"style": {
+										"width": "15vh"
+									}
 								},
 								{
 									"section": "FP_Deck"
