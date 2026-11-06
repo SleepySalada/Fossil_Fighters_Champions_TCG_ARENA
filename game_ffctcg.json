@@ -151,18 +151,15 @@
 								},
 								{
 									"direction": "row",
+									"style": {
+										"width": "67%"
+									},
 									"content": [
 										{
-											"section": "Swap_Left",
-											"style": {
-												"marginLeft": "10%"
-											}
+											"section": "Swap_Left"
 										},
 										{
-											"section": "Swap_Right",
-											"style": {
-												"marginRight": "10%"
-											}
+											"section": "Swap_Right"
 										}
 									]
 								},
