@@ -78,7 +78,7 @@
 				"boardCategoriesInSideboard": "Vivosaur",
 				"boardCardSelection": [
 					{
-						"category": "Vivosaur",
+						"category": "Deck",
 						"min": 1,
 						"max": 1,
 						"unselectedDestination": "Deck"
