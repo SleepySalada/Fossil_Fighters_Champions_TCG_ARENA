@@ -25,7 +25,7 @@
 
 	"deckBuilding": {
 		"mainFilters": [
-			"type",
+			"Type",
 			"Element",
 			"Action Type",
 			"Trait",

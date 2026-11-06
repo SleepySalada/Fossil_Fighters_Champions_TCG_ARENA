@@ -7,7 +7,7 @@
 					"en": "FP Charge"
 				},
 				"image": {
-					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/cards/TOKEN/FP_Charge.png"
+					"en": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/refactor/assets/cards/tokens/fp_charge/FP_Charge.png"
 				},
 				"type": "FP Charge",
 				"cost": 0
@@ -44,14 +44,15 @@
 		},
 		"type": "Vivosaur",
 		"cost": 0,
-		"Element": "FIRE",
-		"Trait": ["L-Theropod", "Silvered"],
-		"Range": "CLOSE",
-		"Set": ["MM"],
 		"_legal": {
 			"FFC": true,
 			"PRE": true
-		}
+		},
+		"Type": "Vivosaur",
+		"Element": "FIRE",
+		"Trait": ["L-Theropod", "Silvered"],
+		"Range": "CLOSE",
+		"Set": ["MM"]
 	},
 
 	"MM01": {
@@ -73,15 +74,16 @@
 		},
 		"type": "Vivosaur",
 		"cost": 0,
+		"_legal": {
+			"FFC": true,
+			"PRE": true
+		},
+		"Type": "Vivosaur",
 		"Element": "AIR",
 		"Trait": ["L-Theropod"],
 		"Range": "CLOSE",
 		"FP Charge": 1,
-		"Set": ["MM"],
-		"_legal": {
-			"FFC": true,
-			"PRE": true
-		}
+		"Set": ["MM"]
 	},
 
 	"MM16": {
@@ -103,11 +105,12 @@
 		},
 		"type": "Action",
 		"cost": 2,
-		"Action Type": "Support",
-		"Set": ["MM"],
 		"_legal": {
 			"FFC": true,
 			"PRE": true
-		}
+		},
+		"Type": "Action",
+		"Action Type": "Support",
+		"Set": ["MM"]
 	}
 }
