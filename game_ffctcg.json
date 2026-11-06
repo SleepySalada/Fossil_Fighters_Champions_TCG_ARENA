@@ -59,8 +59,6 @@
 		}
 	},
 
-	"categoriesAlreadyOnBoard": ["Starter->Vivosaur_Zone_Center"],
-
 	"gameplay": {
 		"Standard": {
 			"countersStartingValues": [0],
@@ -76,25 +74,16 @@
 						"count": 10,
 						"destination": "FP_Deck"
 					}
-				],
-
-				"boardCardSelection": [
-					{
-						"category": "Starter",
-						"min": 1,
-						"max": 1,
-						"unselectedDestination": "Vivosaur_Zone_Right"
-					}
 				]
 			},
 			"mulligan": {
-				"startingHandSize": 4,
+				"startingHandSize": 0,
 				"mulliganCount": {
 					"max": 0
 				}
 			},
 			"newTurn": {
-				"drawOnStart": true,
+				"drawOnStart": false,
 				"drawPerTurn": 1
 			},
 
@@ -159,10 +148,7 @@
 									},
 									"content": [
 										{
-											"section": "Swap_Left"
-										},
-										{
-											"section": "Swap_Right"
+											"section": "Swap"
 										}
 									]
 								},
@@ -288,17 +274,19 @@
 					"Swap_Left": {
 						"type": "custom",
 						"blueprint": {
-							"type": "button",
-							"children": "Left <-> Center",
-							"onClick": "await swapZones('Vivosaur_Zone_Left', 'Vivosaur_Zone_Center');"
-						}
-					},
-					"Swap_Right": {
-						"type": "custom",
-						"blueprint": {
-							"type": "button",
-							"children": "Center <-> Right",
-							"onClick": "await swapZones('Vivosaur_Zone_Center', 'Vivosaur_Zone_Right');"
+							"type": "span",
+							"children": [
+								{
+									"type": "button",
+									"children": "Left <-> Center",
+									"onClick": "await swapZones('Vivosaur_Zone_Left', 'Vivosaur_Zone_Center');"
+								},
+								{
+									"type": "button",
+									"children": "Center <-> Right",
+									"onClick": "await swapZones('Vivosaur_Zone_Center', 'Vivosaur_Zone_Right');"
+								}
+							]
 						}
 					}
 				},
