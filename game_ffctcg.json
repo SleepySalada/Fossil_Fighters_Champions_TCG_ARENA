@@ -153,10 +153,16 @@
 									"direction": "row",
 									"content": [
 										{
-											"section": "Swap_Left"
+											"section": "Swap_Left",
+											"style": {
+												"marginLeft": "10%"
+											}
 										},
 										{
-											"section": "Swap_Right"
+											"section": "Swap_Right",
+											"style": {
+												"marginRight": "10%"
+											}
 										}
 									]
 								},
@@ -221,7 +227,7 @@
 						"title": "Arena_Zone",
 						"displayedTitle": "Arena Zone",
 						"isHidden": "no",
-						"height": "SMALL",
+						"height": "MEDIUM",
 						"alignment": "CENTER",
 						"logWhenPlayed": true,
 						"noQuickActions": true,
