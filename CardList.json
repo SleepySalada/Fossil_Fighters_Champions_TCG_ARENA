@@ -1549,5 +1549,51 @@
 		"Range": "",
 		"FP Charge": "",
 		"Limitation": ""
+	},
+	"T13": {
+		"id": "T13",
+		"isToken": true,
+		"face": {
+			"front": {
+				"name": "Ability Negated",
+				"type": Token",
+				"cost": 0,
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Ability_Negated.png",
+				"isHorizontal": false
+			}
+		},
+		"name": "Ability Negated",
+		"type": "Token",
+		"cost": "",
+		"FP Cost": "",
+		"Action": "",
+		"Trait": "",
+		"Element": "",
+		"Range": "",
+		"FP Charge": "",
+		"Limitation": ""
+	},
+	"T14": {
+		"id": "T14",
+		"isToken": true,
+		"face": {
+			"front": {
+				"name": "Cannot Unrest",
+				"type": Token",
+				"cost": 0,
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_Cannot_Unrest.png",
+				"isHorizontal": false
+			}
+		},
+		"name": "Cannot Unrest",
+		"type": "Token",
+		"cost": "",
+		"FP Cost": "",
+		"Action": "",
+		"Trait": "",
+		"Element": "",
+		"Range": "",
+		"FP Charge": "",
+		"Limitation": ""
 	}
 }
