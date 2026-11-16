@@ -1346,6 +1346,31 @@
 		"Status": "None",
 		"FP Charge": "None",
 		"Set": "MM"
+},
+	"MM54": {
+		"id": "MM54",
+		"isToken": false,
+		"face": {
+			"front": {
+				"name": "Dr. Diggins",
+				"type": "Action",
+				"cost": 3,
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM17_Dr_Diggins_Fullart.png",
+				"isHorizontal": false
+			}
+		},
+		"name": "Dr. Diggins",
+		"type": "Action",
+		"cost": 3,
+		"Action": "Support",
+		"Trait": "",
+		"Limitation": "Unlimited",
+		"FP Cost": "3",
+		"Range": "None",
+		"Element": "None",
+		"Status": "None",
+		"FP Charge": "None",
+		"Set": "MM"
 	},
 	"T02": {
 		"id": "T02",
