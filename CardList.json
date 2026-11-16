@@ -1296,6 +1296,31 @@
 		"Status": "None",
 		"FP Charge": "None",
 		"Set": "MM"
+},
+	"MM51": {
+		"id": "MM51",
+		"isToken": false,
+		"face": {
+			"front": {
+				"name": "Compso",
+				"type": "Vivosaur",
+				"cost": "",
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM51_Compso_Fullart.png",
+				"isHorizontal": false
+			}
+		},
+		"name": "Compso",
+		"type": "Vivosaur",
+		"cost": "",
+		"Action": "",
+		"Trait": "S-Theropod",
+		"Limitation": "Unlimited",
+		"FP Cost": "0,2",
+		"Range": "MID",
+		"Element": "EARTH",
+		"Status": "",
+		"FP Charge": "1",
+		"Set": "MM"
 	},
 	"MM53": {
 		"id": "MM53",
