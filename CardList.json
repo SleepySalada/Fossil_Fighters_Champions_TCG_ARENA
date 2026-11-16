@@ -502,7 +502,7 @@
 		"isToken": false,
 		"face": {
 			"front": {
-				"name": "Hunter",
+				"name": "Bea Ginner",
 				"type": "Action",
 				"cost": 2,
 				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM19_Bea_Ginner.png",
@@ -1291,6 +1291,31 @@
 		"Trait": "",
 		"Limitation": "Unlimited",
 		"FP Cost": "2",
+		"Range": "None",
+		"Element": "None",
+		"Status": "None",
+		"FP Charge": "None",
+		"Set": "MM"
+	},
+	"MM53": {
+		"id": "MM53",
+		"isToken": false,
+		"face": {
+			"front": {
+				"name": "Bea Ginner",
+				"type": "Action",
+				"cost": 2,
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM53_Bea_Ginner_Fullart.png",
+				"isHorizontal": false
+			}
+		},
+		"name": "Bea Ginner",
+		"type": "Action",
+		"cost": 1,
+		"Action": "Support",
+		"Trait": "",
+		"Limitation": "Unlimited",
+		"FP Cost": "1",
 		"Range": "None",
 		"Element": "None",
 		"Status": "None",
