@@ -1321,7 +1321,7 @@
 		"Status": "",
 		"FP Charge": "1",
 		"Set": "MM"
-	},
+},
 	"MM52": {
 		"id": "MM52",
 		"isToken": false,
@@ -1346,7 +1346,7 @@
 		"Status": "None",
 		"FP Charge": "None",
 		"Set": "MM"
-},
+	},
 	"MM53": {
 		"id": "MM53",
 		"isToken": false,
