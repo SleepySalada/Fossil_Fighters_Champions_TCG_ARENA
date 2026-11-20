@@ -1322,6 +1322,31 @@
 		"FP Charge": "1",
 		"Set": "MM"
 	},
+	"MM52": {
+		"id": "MM52",
+		"isToken": false,
+		"face": {
+			"front": {
+				"name": "Mr.Richmond",
+				"type": "Action",
+				"cost": 3,
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM52_Mr_Richmond_Fullart.png",
+				"isHorizontal": false
+			}
+		},
+		"name": "Mr.Richmond",
+		"type": "Action",
+		"cost": 3,
+		"Action": "Support",
+		"Trait": "",
+		"Limitation": "Unlimited",
+		"FP Cost": "3",
+		"Range": "None",
+		"Element": "None",
+		"Status": "None",
+		"FP Charge": "None",
+		"Set": "MM"
+},
 	"MM53": {
 		"id": "MM53",
 		"isToken": false,
@@ -1371,7 +1396,32 @@
 		"Status": "None",
 		"FP Charge": "None",
 		"Set": "MM"
-	},
+},
+	"MM55": {
+		"id": "MM55",
+		"isToken": false,
+		"face": {
+			"front": {
+				"name": "Rosie",
+				"type": "Action",
+				"cost": 2,
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM55_Rosie_Fullart.png",
+				"isHorizontal": false
+			}
+		},
+		"name": "Rosie",
+		"type": "Action",
+		"cost": 2,
+		"Action": "Support",
+		"Trait": "",
+		"Limitation": "Unlimited",
+		"FP Cost": "2",
+		"Range": "None",
+		"Element": "None",
+		"Status": "None",
+		"FP Charge": "None",
+		"Set": "MM"
+},
 	"T02": {
 		"id": "T02",
 		"isToken": true,
