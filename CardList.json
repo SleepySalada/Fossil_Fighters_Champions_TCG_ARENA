@@ -1327,14 +1327,14 @@
 		"isToken": false,
 		"face": {
 			"front": {
-				"name": "Mr.Richmond",
+				"name": "Mr. Richmond",
 				"type": "Action",
 				"cost": 3,
 				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM52_Mr_Richmond_Fullart.png",
 				"isHorizontal": false
 			}
 		},
-		"name": "Mr.Richmond",
+		"name": "Mr. Richmond",
 		"type": "Action",
 		"cost": 3,
 		"Action": "Support",
