@@ -46,6 +46,15 @@
 				"putSelectionAtBottom": false,
 				"drawNewSelectedCards": false
 			},
+			"beforeGameStart": {
+				"initialBoardSetup": [
+					{
+						"createCardId": "T01",
+						"count": 10,
+						"destination": "FP_Deck"
+					}
+				]
+			},
 			"newTurn": {
 				"drawOnStart": true,
 				"sharedTurn": false,
