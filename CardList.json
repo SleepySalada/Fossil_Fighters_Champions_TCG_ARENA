@@ -105,7 +105,7 @@
 				"name": "S-Raptor",
 				"type": "Vivosaur",
 				"cost": "",
-				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM02A_S_Raptor_Fullart.png",
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM02A_S_Raptor.png",
 				"isHorizontal": false
 			}
 		},
@@ -1330,7 +1330,7 @@
 				"name": "Compso",
 				"type": "Vivosaur",
 				"cost": "",
-				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM12A_Compso_Fullart.png",
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM12A_Compso.png",
 				"isHorizontal": false
 			}
 		},
@@ -1355,7 +1355,7 @@
 				"name": "Mr. Richmond",
 				"type": "Action",
 				"cost": 3,
-				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM29A_Mr_Richmond_Fullart.png",
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM29A_Mr_Richmond.png",
 				"isHorizontal": false
 			}
 		},
@@ -1380,7 +1380,7 @@
 				"name": "Bea Ginner",
 				"type": "Action",
 				"cost": 2,
-				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM19A_Bea_Ginner_Fullart.png",
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM19A_Bea_Ginner.png",
 				"isHorizontal": false
 			}
 		},
@@ -1405,7 +1405,7 @@
 				"name": "Dr. Diggins",
 				"type": "Action",
 				"cost": 3,
-				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM17A_Dr_Diggins_Fullart.png",
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM17A_Dr_Diggins.png",
 				"isHorizontal": false
 			}
 		},
@@ -1430,7 +1430,7 @@
 				"name": "Rosie",
 				"type": "Action",
 				"cost": 2,
-				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM18A_Rosie_Fullart.png",
+				"image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_Champions_TCG_ARENA/refs/heads/main/FossilFighterTCG_Cardpool/Missing_Medals/MM18A_Rosie.png",
 				"isHorizontal": false
 			}
 		},
